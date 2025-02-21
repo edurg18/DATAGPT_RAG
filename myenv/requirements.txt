@@ -1,0 +1,12 @@
+langchain
+faiss-cpu
+transformers
+sentence-transformers
+openai
+llama-cpp-python
+saspy  
+fastapi
+uvicorn
+pandas
+numpy
+tqdm
