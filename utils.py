@@ -18,5 +18,3 @@ def create_chunks(text, size_chunk):
         chunk_text.append(text[i:i+size_chunk])
 
     return chunk_text
-
-
